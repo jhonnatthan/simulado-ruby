@@ -4,4 +4,4 @@ Em um site, Usuários, contendo atributos email e senha, podem ser Convidados, A
 
 - [x] Criar teste
 - [x] Criar classes
-- [ ] Criar diagrama de classes
+- [x] Criar diagrama de classes
